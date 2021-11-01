@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&family=Open+Sans:wght@300;400;500;600;700&display=swap');
+
+body {
+    background-image: linear-gradient(to bottom right, #ed1c24, #ffd600);
+}
+
+h2 {
+    font-family: 'Henny Penny', cursive;
+}
+
+span {
+    color: #7209b7;
+}
+
+
